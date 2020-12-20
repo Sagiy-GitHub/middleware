@@ -1,0 +1,26 @@
+{
+  "name": "middleware-excercise-Sagiy-GitHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israeltechchallenge/middleware-excercise-Sagiy-GitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israeltechchallenge/middleware-excercise-Sagiy-GitHub/issues"
+  },
+  "homepage": "https://github.com/israeltechchallenge/middleware-excercise-Sagiy-GitHub#readme"
+}
